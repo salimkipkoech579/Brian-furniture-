@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-serif-luxury {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+/* Wood grain subtle backdrop pattern */
+.wood-gradient {
+  background: linear-gradient(135deg, #1c1511 0%, #2b1d16 50%, #150f0c 100%);
+}
+
+.amber-glow {
+  box-shadow: 0 0 30px -5px rgba(217, 119, 6, 0.25);
+}

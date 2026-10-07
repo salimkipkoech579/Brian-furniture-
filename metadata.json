@@ -1,0 +1,7 @@
+{
+  "name": "Brian Furniture - Custom Handcrafted Furniture Workshop",
+  "description": "Brian Furniture - Crafted with Skill. Built to Last. Bespoke hardwood furniture, custom dining sets, living room sofas, and master carpentry in Nairobi, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
